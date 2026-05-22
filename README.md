@@ -1,8 +1,6 @@
-# AI Mock Interview Coach
+# UpGrad Assignment Aarushi
 
 An intelligent mock interview system powered by Google's Agent Development Kit (ADK) and Gemini API. Features a multi-agent architecture with adaptive difficulty, real-time evaluation, outcome prediction, and personalized coaching.
-
-**UpGrad AI Engineer Internship Assignment - Anshul Roy**
 
 ---
 
@@ -16,7 +14,7 @@ An intelligent mock interview system powered by Google's Agent Development Kit (
 
 ---
 
-## 🚀 Setup & Run Instructions
+##  Setup & Run Instructions
 
 ### Prerequisites
 
@@ -27,8 +25,8 @@ An intelligent mock interview system powered by Google's Agent Development Kit (
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/AnshulRoy28/Anshul-Roy-Upgrad-AI-Engineer-Internship-Assignment.git
-cd Anshul-Roy-Upgrad-AI-Engineer-Internship-Assignment
+git clone https://github.com/Aarushi1901-ai/Aarushi-Upgrad-Assignment.git
+cd Aarushi-Upgrad-Assignment
 
 # 2. Install dependencies
 pip install -r requirements.txt
@@ -654,8 +652,6 @@ MIT License
 
 ---
 
-**Anshul Roy**  
-GitHub: [@AnshulRoy28](https://github.com/AnshulRoy28)  
-Repository: [AI Interview Coach](https://github.com/AnshulRoy28/Anshul-Roy-Upgrad-AI-Engineer-Internship-Assignment)
-
-**UpGrad AI Engineer Internship Assignment**
+**Aarushi Bhargava**  
+GitHub: [@Aarushi1901-ai](https://github.com/Aarushi1901-ai)  
+Repository: [Aarushi-Upgrad-Assignment](https://github.com/Aarushi1901-ai/Aarushi-Upgrad-Assignment)
